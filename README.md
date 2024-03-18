@@ -5,10 +5,10 @@
 - 🏫 Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) - Bragança Paulista
 
 <a href="https://github.com/prodbyvinx/github-readme-stats#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=prodbyvinx&show_icons=true&theme=dracula#gh-dark-mode-only"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=prodbyvinx&show_icons=true&theme=merko#gh-dark-mode-only"/>
 </a>
 <a href="https://github.com/prodbyvinx/github-readme-stats#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodbyvinx&layout=donut&theme=dracula#gh-dark-mode-only"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodbyvinx&layout=donut&theme=merko#gh-dark-mode-only"/>
 </a>
 
 <div style="display: inline_block">
