@@ -1,6 +1,6 @@
 ## Olá, eu sou o Vinícius Beira!
 
-- 🔭 Atualmente desempregado, futuro Analista e Desenvolvedor de Sistemas.
+- 🔭 Estudando, futuro Analista e Desenvolvedor de Sistemas.
 - 🌱 Aprendendo JavaScript e C.
 
 <a href="https://github.com/prodbyvinx/github-readme-stats#gh-dark-mode-only">
