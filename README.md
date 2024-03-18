@@ -24,7 +24,11 @@
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-beira-30508a268/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:viniciusbeira2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://wa.me/+5519998796024" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  
-![Snake animation](https://github.com/prodbyvinx/prodbyvinx/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prodbyvinx/prodbyvinx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prodbyvinx/prodbyvinx/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prodbyvinx/prodbyvinx/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
