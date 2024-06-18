@@ -1,7 +1,7 @@
 ## Olá, eu sou o Vinícius Beira!
 
 - 🔭 Estudante, futuro Analista de Sistemas.
-- 🌱 Aprendendo Node.js.
+- 🌱 Aprendendo PHP, MySQL e React.
 - 🏫 IFSP - Bragança Paulista
 
 <a href="https://github.com/prodbyvinx/github-readme-stats#gh-dark-mode-only">
