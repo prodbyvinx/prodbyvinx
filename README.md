@@ -1,7 +1,7 @@
 ## Olá, eu sou o Vinícius Beira!
 
 - 🔭 Estudante, futuro Analista de Sistemas.
-- 🌱 Aprendendo Next.js e TailwindCSS.
+- 🌱 Aprendendo NextJS, Prisma, Typescript.
 - 🏫 Descomplica Faculdade Digital
 
 <a href="https://github.com/prodbyvinx/github-readme-stats#gh-dark-mode-only">
