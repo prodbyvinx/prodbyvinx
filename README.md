@@ -2,6 +2,7 @@
 
 - 🔭 Estudante, futuro Analista de Sistemas.
 - 🌱 Aprendendo NextJS, Prisma, Typescript.
+- 🚧 Construindo uma loja online do zero.
 - 🏫 Descomplica Faculdade Digital
 
 <a href="https://github.com/prodbyvinx/github-readme-stats#gh-dark-mode-only">
