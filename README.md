@@ -2,7 +2,7 @@
 
 - 🔭 Estudante, futuro Analista de Sistemas.
 - 🌱 Aprendendo NextJS, Prisma, Typescript.
-- 🚧 Construindo uma loja online do zero.
+- 🚧 Construindo um site de e-commerce do zero usando Next.js e Prisma ORM.
 - 🏫 Descomplica Faculdade Digital
 
 <a href="https://github.com/prodbyvinx/github-readme-stats#gh-dark-mode-only">
